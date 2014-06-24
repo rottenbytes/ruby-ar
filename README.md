@@ -16,7 +16,7 @@ a.files
 => 516
 ```
 
-You can also get the file as a string with Ar#get_payload, for usage with StringIO for example
+You can also get the file as a string with ```Ar#get_payload```, for usage with ```StringIO``` for example
 
 ## License
 
